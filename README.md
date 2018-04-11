@@ -1,5 +1,5 @@
-# iBIT block package for iBIT robot kit
-
+# iBIT package for pxt-micro:bit
+https://inex.co.th/shop/ibit.html
 powered by micro:bit
 
 ![ibitbot](https://raw.githubusercontent.com/emwta/pxt-iBit/master/icon.png)  
